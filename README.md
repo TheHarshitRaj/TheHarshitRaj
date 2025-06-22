@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.ibb.co/B2t1V0fr/giphy.gif](https://camo.githubusercontent.com/fbfb766d54161374cc061d27171b9ff424a65a7cb96d1a851fdfa85b77d64214/68747470733a2f2f692e6962622e636f2f42327431563066722f67697068792e676966)"  />
+<img align="right" height="150" src="https://i.ibb.co/B2t1V0fr/giphy.gif"  />
 
 ###
 
