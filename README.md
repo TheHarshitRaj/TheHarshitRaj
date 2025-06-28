@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harshit Raj and I'm a Python Developer.</h2>
+<h2 align="left">Hi👋! My name is Harshit Raj and I have no clue what I am doing.</h2>
 
 ###
 
