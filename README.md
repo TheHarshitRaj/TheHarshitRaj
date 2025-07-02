@@ -39,9 +39,9 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/TheHarshitRaj/count.svg?"  />
-</div>
+</div>-->
 
 ###
 
